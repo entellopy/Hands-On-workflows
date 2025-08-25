@@ -13,10 +13,10 @@ scripts/	Jupyter notebooks/python scripts for deeper dives and reproducible work
 The ebook is divided into five thematic chapters, each focusing on a specific aspect of how data analysis is being reframed:<br>
 
 Introduction: Context<br>
-S1. From Traditional to State-of-the-art: Analyze teh relevance of transforming Data Analytics.
-S2. The Human-Tech Sinergy:
-S3. Real-world transformations
-S4. Beyond Dashboards
+S1. From Traditional to State-of-the-art: Analyze teh relevance of transforming Data Analytics.<br>
+S2. The Human-Tech Sinergy:<br>
+S3. Real-world transformations<br>
+S4. Beyond Dashboards<br>
 S5. Challenges and Ethical Considerations <br>
 The Future of Data Analytics<br>
 Appendix: Additional resources, references, and technical notes.<br>

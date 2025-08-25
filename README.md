@@ -1,5 +1,5 @@
 ### Adaptive Analytics Overview
-This repository contains analysis of an interactive ebook designed to provide a perspective about how Data Analytics is adapting and evolving.  It combines narrative insights with visualizations and reproducible code to guide readers through key analytical concepts.
+This repository contains analysis of an interactive ebook that explores how Data Analytics is adapting and evolving..  It combines narrative insights with visualizations and reproducible code to guide readers through key analytical concepts.
 
 #### Structure
 The repo is organized into the following main folders:
@@ -10,16 +10,15 @@ data/	Includes raw and processed datasets used for analysis (pending).
 scripts/	Jupyter notebooks/python scripts for deeper dives and reproducible workflows.
 
 #### Ebook Sections
-The ebook is divided into five thematic chapters, each focusing on a specific aspect of how data analysis is being reframed:
-
-   Introduction: Context.
+The ebook is divided into five thematic chapters, each focusing on a specific aspect of how data analysis is being reframed:<br>
+Introduction: Context.
 1. From Traditional to State-of-the-art: Analyze teh relevance of transforming Data Analytics.
 2. The Human-Tech Sinergy:
 3. Real-world transformations
 4. Beyond Dashboards
-5. Challenges and Ethical Considerations
-   The Future of Data Analytics
-   Appendix: Additional resources, references, and technical notes.
+5. Challenges and Ethical Considerations <br>
+The Future of Data Analytics<br>
+Appendix: Additional resources, references, and technical notes.<br>
 
 #### Getting Started
 To view the ebook locally:

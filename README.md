@@ -1,7 +1,7 @@
-### Adaptive Analytics Overview
+### Adaptive Analytics Overview <br>
 This repository contains analysis of an interactive ebook that explores how Data Analytics is adapting and evolving. It combines narrative insights with visualizations and reproducible code to guide readers through key analytical concepts.
 
-#### Structure
+### Structure <br>
 The repo is organized into the following main folders: <br>
 **Folder/**	Description <br>
 **ebook/**	Contains the core Markdown files for each chapter or section of the ebook (Pending).<br>
@@ -9,7 +9,7 @@ The repo is organized into the following main folders: <br>
 **data/**	Includes raw and processed datasets used for analysis (pending).<br>
 **scripts/**	Jupyter notebooks/python scripts for deeper dives and reproducible workflows.<br>
 
-#### Ebook Sections
+### Ebook Sections <br>
 The ebook is divided into five thematic chapters, each focusing on a specific aspect of how data analysis is being reframed:<br>
 
 **Introduction:** Context<br>
@@ -21,12 +21,12 @@ The ebook is divided into five thematic chapters, each focusing on a specific as
 **The Future of Data Analytics** <br>
 **Appendix:** Additional resources, references, and technical notes.<br>
 
-#### Getting Started
+### Getting Started <br>
 To view the ebook locally:<br>
 Clone the repo.<br>
 Navigate to the ebook/ folder.<br>
 Open describe.md or start with intro.md <br> (pending).
 
-#### Contributing
+### Contributing <br>
 Pull requests are welcome! <br>
 If you spot a typo, want to add a new visualization, or suggest a better analytical approach, feel free to jump in.

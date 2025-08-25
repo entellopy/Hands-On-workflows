@@ -4,7 +4,7 @@ Initially, the company used Excel to manually tag and summarize feedback, but th
 
 This business problem requires Python to automated this time-consuming task and avoid manual errors.
 
-![Case Framework](feedback_analysis/viz/framework-feedback_analysis.png)
+![Case Framework](viz/framework-feedback_analysis.png)
 
 
 ### Takeaway

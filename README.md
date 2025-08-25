@@ -22,11 +22,11 @@ The ebook is divided into five thematic chapters, each focusing on a specific as
 **Appendix:** Additional resources, references, and technical notes.<br>
 
 #### Getting Started
-To view the ebook locally:
-Clone the repo.
-Navigate to the ebook/ folder.
-Open describe.md or start with intro.md  (pending).
+To view the ebook locally:<br>
+Clone the repo.<br>
+Navigate to the ebook/ folder.<br>
+Open describe.md or start with intro.md <br> (pending).
 
 #### Contributing
-Pull requests are welcome! 
+Pull requests are welcome! <br>
 If you spot a typo, want to add a new visualization, or suggest a better analytical approach, feel free to jump in.

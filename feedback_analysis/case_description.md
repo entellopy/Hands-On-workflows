@@ -7,7 +7,6 @@ This business problem requires Python to automated this time-consuming task and 
 ### Case Framework
 ![Case Framework](viz/framework-feedback_analysis.png)
 
-
 ### Takeaway
 This case shows how businesses can start with Excel, then scale up with Python to unlock deeper insights. Even beginner-level Python can automate repetitive tasks, reduce bias, and reveal patterns that manual methods miss. 
 Excel is useful until certain threshold, once you reach it, your analysis needs to evolve.

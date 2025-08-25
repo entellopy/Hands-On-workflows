@@ -13,7 +13,7 @@ The repo is organized into the following main folders: <br>
 The ebook is divided into five thematic chapters, each focusing on a specific aspect of how data analysis is being reframed:<br>
 
 **Introduction:** Context<br>
-**S1.** From Traditional to State-of-the-art: Analyze teh relevance of transforming Data Analytics.<br>
+**S1.** From Traditional to State-of-the-art: Analyze the relevance of transforming Data Analytics.<br>
 **S2.** The Human-Tech Sinergy:<br>
 **S3.** Real-world transformations<br>
 **S4.** Beyond Dashboards<br>

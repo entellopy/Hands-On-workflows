@@ -11,7 +11,8 @@ scripts/	Jupyter notebooks/python scripts for deeper dives and reproducible work
 
 #### Ebook Sections
 The ebook is divided into five thematic chapters, each focusing on a specific aspect of how data analysis is being reframed:<br>
-Introduction: Context.
+
+Introduction: Context<br>
 1. From Traditional to State-of-the-art: Analyze teh relevance of transforming Data Analytics.
 2. The Human-Tech Sinergy:
 3. Real-world transformations

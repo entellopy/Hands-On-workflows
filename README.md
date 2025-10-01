@@ -1,32 +1,24 @@
-### Adaptive Analytics Overview <br>
-This repository contains analysis of an interactive ebook that explores how Data Analytics is adapting and evolving. It combines narrative insights with visualizations and reproducible code to guide readers through key analytical concepts.
+### Reinventing Data Analytics with AI Agents  A Hands-On Guide to Smarter, Faster, Automated Insights
+Unlock the future of analytics with this practical, no-code ebook designed for data professionals, marketers, and curious minds. Learn how to automate reporting, generate insights, and build intelligent workflows using free AI tools like ChatGPT, Notion AI, Google Sheets, Perplexity, and Harpa AI.
 
-### Structure <br>
-The repo is organized into the following main folders: <br>
-**Folder/**	Description <br>
-**ebook/**	Contains the core Markdown files for each chapter or section of the ebook (Pending).<br>
-**viz/**	Stores all generated charts, diagrams, and visual assets used in the ebook.<br>
-**data/**	Includes raw and processed datasets used for analysis (pending).<br>
-**scripts/**	Jupyter notebooks/python scripts for deeper dives and reproducible workflows.<br>
+Whether you're drowning in dashboards or just starting your data journey, this guide will help you shift from manual effort to strategic execution—without writing a single line of code.
 
-### Ebook Sections <br>
-The ebook is divided into five thematic chapters, each focusing on a specific aspect of how data analysis is being reframed:<br>
+#### What’s inside:
+Hands-on walkthroughs
+Real-world use cases and prompts
+A complete system for building your own AI-powered analytics engine
 
-**Introduction:** Context<br>
-**S1.** From Traditional to State-of-the-art: Analyze the relevance of transforming Data Analytics.<br>
-**S2.** The Human-Tech Sinergy:<br>
-**S3.** Real-world transformations<br>
-**S4.** Beyond Dashboards<br>
-**S5.** Challenges and Ethical Considerations <br>
-**The Future of Data Analytics** <br>
-**Appendix:** Additional resources, references, and technical notes.<br>
+#### Perfect for:
+* Data analysts
+* Marketing professionals
+* Startup founders
+* Anyone ready to rethink how they work with data
 
-### Getting Started <br>
-To view the ebook locally:<br>
-Clone the repo.<br>
-Navigate to the ebook/ folder.<br>
-Open describe.md or start with intro.md <br> (pending).
+Powered by Microsoft Copilot 
+Download now, test it, and transform your analytics workflow.
 
-### Contributing <br>
-Pull requests are welcome! <br>
-If you spot a typo, want to add a new visualization, or suggest a better analytical approach, feel free to jump in.
+#### Contact  
+For questions, collaboration, or consulting inquiries, feel free to connect via [Issue](https://github.com/entellopy/ai-workflows-lab/issues).
+
+#### License 
+This project is licensed under the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/legalcode#legal-code-title). You’re free to use, adapt, and share it for non-commercial purposes with attribution.

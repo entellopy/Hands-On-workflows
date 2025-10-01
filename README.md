@@ -6,9 +6,9 @@ Unlock the future of analytics with this practical, no-code ebook designed for d
 Whether you're drowning in dashboards or just starting your data journey, this guide will help you shift from manual effort to strategic execution—without writing a single line of code.
 
 #### What’s inside:
-Hands-on walkthroughs
-Real-world use cases and prompts
-A complete system for building your own AI-powered analytics engine
+Hands-on walkthroughs<br>
+Real-world use cases and prompts<br>
+A complete system for building your own AI-powered analytics engine<br>
 
 #### Perfect for:
 * Data analysts

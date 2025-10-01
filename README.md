@@ -16,8 +16,8 @@ A complete system for building your own AI-powered analytics engine<br>
 * Startup founders
 * Anyone ready to rethink how they work with data
 
-Powered by Microsoft Copilot 
-Download now, test it, and transform your analytics workflow.
+Powered by Microsoft Copilot <br>
+Download now, test it, and transform your analytics workflow.<br>
 
 #### Contact  
 For questions, collaboration, or consulting inquiries, feel free to connect via [Issue](https://github.com/entellopy/ai-workflows-lab/issues).
